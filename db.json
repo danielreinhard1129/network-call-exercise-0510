@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Budi",
+      "email": "budi@mail.com",
+      "password": "Admin123"
+    },
+    {
+      "id": 2,
+      "name": "Siti",
+      "email": "siti@mail.com",
+      "password": "Admin123"
+    },
+    {
+      "id": 3,
+      "name": "Joko",
+      "email": "joko@mail.com",
+      "password": "Admin123"
+    },
+    {
+      "id": 4,
+      "name": "Joko",
+      "email": "joko@mail.com",
+      "password": "Admin123"
+    },
+    {
+      "name": "heru",
+      "email": "heru@mail.com",
+      "password": "Admin123",
+      "id": 5
+    },
+    {
+      "name": "udin",
+      "email": "udin@mail.com",
+      "password": "Admin123",
+      "id": 6
+    },
+    {
+      "name": "aceng",
+      "email": "aceng@mail.com",
+      "password": "Admin123",
+      "id": 7
+    },
+    {
+      "name": "ipul",
+      "email": "ipul@mail.com",
+      "password": "Admin123",
+      "id": 8
+    },
+    {
+      "name": "Ucok",
+      "email": "ucok@mail.com",
+      "password": "ADmin123",
+      "id": 9
+    },
+    {
+      "name": "ucok",
+      "email": "ucok@mail.com",
+      "password": "ADmin123",
+      "id": 10
+    }
+  ]
+}
